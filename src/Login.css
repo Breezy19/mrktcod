@@ -1,0 +1,115 @@
+
+
+.login-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #1c486f;
+}
+
+.login-form {
+    background-color: white;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+    width: 600px;
+    text-align: center;
+}
+
+@media(max-width: 768px) {
+    .login-form {
+        background-color: white;
+        padding: 30px;
+        border-radius: 10px;
+        box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+        width: 400px;
+        text-align: center;
+    }
+    
+}
+
+
+.login-form h2 {
+    margin-bottom: 20px;
+}
+
+.login-form form {
+    display: flex;
+    flex-direction: column;
+}
+
+.login-form input[type="email"],
+.login-form input[type="password"] {
+    padding: 10px;
+    margin: 10px 0;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+}
+
+.login-form .remember-me {
+    display: flex;
+    align-items: baseline;
+    justify-content: flex-start;
+}
+
+.login-form .remember-me input {
+    margin-right: 5px;
+    width: 20px;
+}
+
+.login-btn {
+    background-color: #ee8122;
+    color: white;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-top: 10px;
+}
+
+.login-btn:hover {
+    background-color: #2563EB;
+}
+
+.alternative-login {
+    display: flex;
+    flex-direction: column;
+    margin: 20px 0;
+}
+
+.google-btn, .facebook-btn {
+    background-color: #DB4437; /* Google Red */
+    color: white;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin: 5px 0;
+}
+
+.facebook-btn {
+    background-color: #4267B2; /* Facebook Blue */
+}
+
+.google-btn:hover {
+    background-color: #C53727;
+}
+
+.facebook-btn:hover {
+    background-color: #365899;
+}
+
+.error-msg {
+    color: red;
+    margin-top: 10px;
+}
+
+.login-form span {
+    display: block;
+    margin-top: 20px;
+}
+
+.logo {
+    width: 50%;
+}

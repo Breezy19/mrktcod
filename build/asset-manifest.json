@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.96b8de83.chunk.css",
+    "main.js": "/static/js/main.cebb5590.chunk.js",
+    "main.js.map": "/static/js/main.cebb5590.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.2410f066.js",
+    "runtime-main.js.map": "/static/js/runtime-main.2410f066.js.map",
+    "static/css/2.d4dfd184.chunk.css": "/static/css/2.d4dfd184.chunk.css",
+    "static/js/2.89cdabea.chunk.js": "/static/js/2.89cdabea.chunk.js",
+    "static/js/2.89cdabea.chunk.js.map": "/static/js/2.89cdabea.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.197b541c3e62bbc3d9cfe7c66dc4da5a.js": "/precache-manifest.197b541c3e62bbc3d9cfe7c66dc4da5a.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.d4dfd184.chunk.css.map": "/static/css/2.d4dfd184.chunk.css.map",
+    "static/css/main.96b8de83.chunk.css.map": "/static/css/main.96b8de83.chunk.css.map",
+    "static/js/2.89cdabea.chunk.js.LICENSE.txt": "/static/js/2.89cdabea.chunk.js.LICENSE.txt",
+    "static/media/ecommerceland.png": "/static/media/ecommerceland.b78100d8.png",
+    "static/media/slide.jpg": "/static/media/slide.ca306869.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2410f066.js",
+    "static/css/2.d4dfd184.chunk.css",
+    "static/js/2.89cdabea.chunk.js",
+    "static/css/main.96b8de83.chunk.css",
+    "static/js/main.cebb5590.chunk.js"
+  ]
+}
