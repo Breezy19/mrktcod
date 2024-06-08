@@ -6,13 +6,12 @@ import 'firebase/auth'
 
 // For Firebase JS SDK v7.20.0 and later, measurementId is optional
 const firebaseConfig = {
-  apiKey: "AIzaSyAeHCWiHfLUtc8UUPdJ7YIYIu_2O0YTZSM",
-  authDomain: "codmarkt-ea9c4.firebaseapp.com",
-  databaseURL: "https://codmarkt-ea9c4.firebaseio.com",
-  projectId: "codmarkt-ea9c4",
-  storageBucket: "codmarkt-ea9c4.appspot.com",
-  messagingSenderId: "507272403886",
-  appId: "1:507272403886:web:e5d6938077b06c4098463f"
+  apiKey: "AIzaSyDALM_ndyiJs5fNZUd7n_YkecAistn30sw",
+  authDomain: "codmarkt-1ffbe.firebaseapp.com",
+  projectId: "codmarkt-1ffbe",
+  storageBucket: "codmarkt-1ffbe.appspot.com",
+  messagingSenderId: "170264770313",
+  appId: "1:170264770313:web:a475580b7842e0fab205d8"
 };
 
 firebase.initializeApp(firebaseConfig);
